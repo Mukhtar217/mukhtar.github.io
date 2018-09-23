@@ -18,7 +18,7 @@ body{
    
 }
 .mid{
-     display:flex;
+    display:flex;
     justify-content:space-around;
     background-color:black;
     color:white;
@@ -51,9 +51,18 @@ body{
 a{
     color:white;
     text-decoration:none;
-    margin-top: 18px;
+    margin-top: 20px;
     }
 a:hover{
     color:blue;
     text-decoration: underline;
+}
+#main{
+    height:686px;
+    width:1000px;
+    margin-top: 25px;
+}
+
+.info{
+    font-size:25px;
 }
