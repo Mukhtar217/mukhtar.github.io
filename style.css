@@ -27,6 +27,14 @@ body{
     margin-top:30px;
     margin-bottom:5px;
 }
+.midd{
+    display:flex;
+    justify-content:space-around;
+    background-color:black;
+    color:white;
+    align-items:center;
+    font-size:25px;
+}
 .aboutme{
     border:1px solid black;
      display:flex;
@@ -65,4 +73,13 @@ a:hover{
 
 .info{
     font-size:25px;
+}
+
+.projects{
+    font-size:25px;
+}
+
+#whole{
+    margin:15px;
+    border:solid blue 5px;
 }
