@@ -15,6 +15,7 @@ body{
 
 .headshot{
     width:20%;
+    border: solid white 5px;
    
 }
 .mid{
@@ -78,9 +79,14 @@ a:hover{
 .projects{
     font-size:25px;
     padding-top: 10px;
+    display:flex;
+    justify-content:center;
 }
 
-#whole{
+.midd{
     margin:15px;
-    border:solid blue 5px;
+    border:solid white 5px;
+}
+.proList{
+   border:solid white 5px; 
 }
